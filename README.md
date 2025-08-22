@@ -1,6 +1,6 @@
 # Biblioteca
 
-Biblioteca de algoritmos, estruturas de dados e primitivas para Maratona de Programação.
+Biblioteca de algoritmos, estruturas de dados e primitivas para Maratona de Programação (Baseado no livro do BrunoMont).
 
 ### PDF
 
